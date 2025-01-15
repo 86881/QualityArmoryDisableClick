@@ -1,0 +1,1 @@
+為了解決Quality Armory近戰無法使用武器的問題而製作的插件，主要功能仍需安裝Quality Armory。
